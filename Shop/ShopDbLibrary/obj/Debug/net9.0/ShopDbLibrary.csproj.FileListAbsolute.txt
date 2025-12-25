@@ -1,0 +1,14 @@
+C:\college\Shop\ShopDbLibrary\bin\Debug\net9.0\ShopDbLibrary.deps.json
+C:\college\Shop\ShopDbLibrary\bin\Debug\net9.0\ShopDbLibrary.runtimeconfig.json
+C:\college\Shop\ShopDbLibrary\bin\Debug\net9.0\ShopDbLibrary.dll
+C:\college\Shop\ShopDbLibrary\bin\Debug\net9.0\ShopDbLibrary.pdb
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\ShopDbLibrary.csproj.AssemblyReference.cache
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\ShopDbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\ShopDbLibrary.AssemblyInfoInputs.cache
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\ShopDbLibrary.AssemblyInfo.cs
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\ShopDbLibrary.csproj.CoreCompileInputs.cache
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\ShopDbLibrary.dll
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\refint\ShopDbLibrary.dll
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\ShopDbLibrary.pdb
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\ShopDbLibrary.genruntimeconfig.cache
+C:\college\Shop\ShopDbLibrary\obj\Debug\net9.0\ref\ShopDbLibrary.dll
